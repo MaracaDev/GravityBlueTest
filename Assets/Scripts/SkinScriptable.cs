@@ -7,6 +7,7 @@ public class SkinScriptable : ScriptableObject
 {
     public string skinType;
     public Sprite skinArt;
+    public Sprite skinIcon;
 }
 
 
